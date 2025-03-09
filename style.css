@@ -1,0 +1,10 @@
+#gameCanvas {
+  border: 2px solid #1E90FF;
+  background: #87CEEB;
+}
+
+#chatInput {
+  margin-top: 10px;
+  padding: 8px;
+  width: 300px;
+}
